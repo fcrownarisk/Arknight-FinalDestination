@@ -1,7 +1,6 @@
 # Arknight:Final Destination
    
     The Beginning of Arknight End Field Part II (spacescape)
-
 # RenderScript JavaScript TypeScript SuperScript SupremeScript
     Neovim based on LUA and Vimscript
     
@@ -15,7 +14,7 @@
   
 # relationship
     if else
-    typedef sizeof
+    typedef sizeof(malloc)
     long enum
 
 # cycle body
@@ -33,3 +32,5 @@
     
 # otherwise
     void volatile  
+
+# Pointer on C
