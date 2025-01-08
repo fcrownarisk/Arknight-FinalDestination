@@ -2,7 +2,7 @@
    
     The Beginning of Arknight End Field Part II (spacescape)
 
-# RenderScript JavaScript Typrescript SuperScript SupremeScript
+# RenderScript JavaScript TypeScript SuperScript SupremeScript
     Neovim based on LUA and Vimscript
     
     Zed based on objective-C and RUST(.rs)
