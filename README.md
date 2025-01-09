@@ -13,7 +13,7 @@
   
 # relationship
     if else
-    typedef sizeof(malloc)
+    sizeof malloc
     long enum
 
 # cycle body
